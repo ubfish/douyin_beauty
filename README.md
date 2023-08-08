@@ -72,4 +72,4 @@ pip install selenium
 python douyin_beauty.py
 
 
-
+![Image](https://github.com/ubfish/douyin_beauty/blob/main/img/%E9%98%BF%E4%BA%A6%E7%9A%84%E6%97%85%E8%A1%8C.png)
