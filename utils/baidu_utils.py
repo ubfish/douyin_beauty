@@ -144,7 +144,7 @@ def analysis_face(face_list):
                 print('性别为男,继续~')
                 continue
     else:
-        result = '<span style="color:red">图片中没有发现人脸.</span>'
+        result = '<span style="color:red">没有发现人脸.</span>'
         print('图片中没有发现人脸.')
 
     return find_belle,result
